@@ -1,1 +1,2 @@
 nginx
+docker.xuanyuan.run/jeessy/ddns-go:latest
